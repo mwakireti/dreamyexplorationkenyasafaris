@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title -->
-    <title>Nortaz Safari LTD - Explore wild with us.</title>
+    <title>Dreamy Exploration Kenya Safaris  - Explore wild with us.</title>
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- animate css -->
@@ -25,7 +25,7 @@
     <!-- Responsive css -->
     <link rel="stylesheet" href="assets/css/responsive.css" />
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="assets/img/#">
 </head>
 
 <body>

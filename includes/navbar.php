@@ -12,7 +12,7 @@
                   <a href="#!"><i class="fab fa-linkedin"></i></a>
                 </li>
                 <li><a href="#!"><span>+255 234 567 89</span></a></li>
-                <li><a href="Mailto:inquiry@nortazsafari.com"><span>inquiry@nortazsafari.com</span></a></li>
+                <li><a href="Mailto:mike.mzee@dreamyexplorationkenyasafari.com"><span>bookings@dreamyexplorationkenyasafari.com</span></a></li>
               </ul>
             </div>
           </div>

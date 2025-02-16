@@ -185,11 +185,11 @@
                     <!-- </ul>
                   </li> -->
                   <li class="nav-item">
-                    <a href="about"
+                    <a href="#"
                       class="nav-link">About</a>
                   </li>
                   <li class="nav-item">
-                    <a href="contact"
+                    <a href="#"
                       class="nav-link">Contact</a>
                   </li>
                 </ul>

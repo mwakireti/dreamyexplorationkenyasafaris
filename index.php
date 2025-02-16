@@ -87,7 +87,7 @@
                     <div class="banner_four_text">
                         <h4>Welcome to  dreamy Exploration Kenya Safaris</h4>
                         <h1>Experience the wild together</h1>
-                        <h3>Find awesome favorite tour packages.</h3>
+                        <h3>Our site is currently under maintenance. for booking just Press BOOK NOW!</h3>
                     </div>
                 </div>
                 <div class="col-lg-4">

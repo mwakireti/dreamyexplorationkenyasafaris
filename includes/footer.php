@@ -9,11 +9,11 @@
         <div class="footer_first_area">
           <div class="footer_inquery_area">
             <h5>Call 24/7 for any help</h5>
-            <h3> <a href="tel:+00-123-456-789">+255 023 456 789</a></h3>
+            <h3> <a href="tel:+00-123-456-789">+254 023 456 789</a></h3>
           </div>
           <div class="footer_inquery_area">
             <h5>Mail to our support team</h5>
-            <h3> <a href="mailto:support@nortazsafari.com">support@nortazsafari.com</a></h3>
+            <h3> <a href="mailto:booking@dreamyexplorationkenyasafaris.com">bookings@dreamyexplorationkenyasafaris.com</a></h3>
           </div>
           <div class="footer_inquery_area">
             <h5>Follow us on</h5>
@@ -56,7 +56,7 @@
     <div class="row align-items-center">
       <div class="co-lg-6 col-md-6 col-sm-12 col-12">
         <div class="copyright_left">
-          <p>Copyright © 2024 Nortazsafari ltd All Rights Reserved</p>
+          <p>Copyright © 2024 dreamy exploration kenya Safari ltd All Rights Reserved</p>
         </div>
       </div>
       <div class="co-lg-6 col-md-6 col-sm-12 col-12">

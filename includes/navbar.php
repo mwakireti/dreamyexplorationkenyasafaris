@@ -40,7 +40,7 @@
               </a>
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav">
-                  <li class="nav-item">
+                  <!-- <li class="nav-item">
                     <a href="safari" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
@@ -59,8 +59,8 @@
                         <a href="5days-the-thrilling-predator.php"class="nav-link">5 Days- The thrilling</a>
                       </li>
                     </ul>
-                  </li>
-                  <li class="nav-item">
+                  </li> -->
+                  <!-- <li class="nav-item">
                     <a href="climbtrekk" class="nav-link">Climb & trekk<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
@@ -79,8 +79,8 @@
                         <a href="6days-mt-meru-route.php" class="nav-link">6 Days mt Meru Route</a>
                       </li>
                     </ul>
-                  </li>
-                  <li class="nav-item">
+                  </li> -->
+                  <!-- <li class="nav-item">
                     <a href="daytrips.php" class="nav-link">Day Trips<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
@@ -103,16 +103,16 @@
                       </li>
                       <li class="nav-item">
                         <a href="zipline1.php" class="nav-link">Zipline</a>
-                      </li>
+                      </li> -->
                       <!-- <li class="nav-item">
                         <a href="6days-mt-meru-route.php" class="nav-link">Arusha by Night</a>
                       </li>
                       <li class="nav-item">
                         <a href="6days-mt-meru-route.php" class="nav-link"> NATIVE TOUR/a>
                       </li> -->
-                    </ul>
-                  </li>
-                  <li class="nav-item">
+                    <!-- </ul>
+                  </li> -->
+                  <!-- <li class="nav-item">
                     <a href="" class="nav-link">Special Tours<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
@@ -123,15 +123,15 @@
                       </li>
                       <li class="nav-item">
                         <a href="8days-rongai-route.php" class="nav-link">Customers Request</a>
-                      </li>
+                      </li> -->
                       <!-- <li class="nav-item">
                         <a href="7days-marangu-route.php" class="nav-link">7 Days Marangu Route</a>
                       </li>
                       <li class="nav-item">
                         <a href="6days-mt-meru-route.php" class="nav-link">6 Days mt Meru Route</a>
                       </li> -->
-                    </ul>
-                  </li>
+                    <!-- </ul>
+                  </li> -->
                   <!-- <li class="nav-item">
                     <a href="javascript:void(0);"
                       class="nav-link">Trips <i

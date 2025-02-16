@@ -26,7 +26,7 @@
             <div class="main-responsive-menu">
               <div class="logo">
                 <a href="home">
-                  <img style="width:70px;" src="assets/img/logo_black.png" alt="logo">
+                  <img style="width:70px;" src="assets/img/dreamylogobg0.png" alt="logo">
                 </a>
               </div>
             </div>
@@ -36,7 +36,7 @@
           <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
               <a class="navbar-brand" href="home">
-                <img style="width:70px;" src="assets/img/logo_black.png" alt="logo">
+                <img style="width:70px;" src="assets/img/dreamylogobg0.png" alt="logo">
               </a>
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav">

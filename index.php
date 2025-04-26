@@ -99,7 +99,7 @@
         </div>
     </section>
 
-    <!-- banner bottom Area
+    < banner bottom Area
     <section class="banner_bootom_four">
         <div class="container">
             <div class="row">
@@ -126,7 +126,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section> 
 
     <!-- Best Offers Area -->
     <!-- <section id="best_offers_four" class="section_padding_top">

@@ -40,46 +40,46 @@
               </a>
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav">
-                  <!-- <li class="nav-item">
+                  <li class="nav-item">
                     <a href="safari" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="7day-perfect-combo-safari.php" class="nav-link">7 Days- Perfect Combo</a>
+                        <a href="#" class="nav-link">Maasai Mara National Reserve</a>
                       </li>
                       <li class="nav-item">
-                        <a href="6Days-wildlife-safari.php" class="nav-link">6 Days-Wildlife DIscovery</a>
+                        <a href="#" class="nav-link">Amboseli National Park</a>
                       </li>
                       <li class="nav-item">
-                        <a href="6days-restful-safari.php" class="nav-link">6 Days- Restfull</a>
+                        <a href="#" class="nav-link">Tsavo East National Park</a>
                       </li>
                       <li class="nav-item">
-                        <a href="5days-lively-wildlife.php" class="nav-link">5 Days Lively Wildlife</a>
+                        <a href="#" class="nav-link">Samburu National Park</a>
                       </li>
                       <li class="nav-item">
-                        <a href="5days-the-thrilling-predator.php"class="nav-link">5 Days- The thrilling</a>
+                        <a href="#"class="nav-link">Meru National Park</a>
                       </li>
                     </ul>
-                  </li> -->
-                  <!-- <li class="nav-item">
-                    <a href="climbtrekk" class="nav-link">Climb & trekk<i class="fas fa-angle-down"></i></a>
+                  </li> 
+                   <li class="nav-item">
+                    <a href="climbtrekk" class="nav-link">Site Tour<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="10days-lemosho-route.php" class="nav-link">10 Days Lemosho Route</a>
+                        <a href="#" class="nav-link">Mount Kenya</a>
                       </li>
                       <li class="nav-item">
-                        <a href="9days-machame-route.php" class="nav-link">9 Days Machame Route</a>
+                        <a href="#" class="nav-link">Ol Pejeta Conservancy</a>
                       </li>
                       <li class="nav-item">
-                        <a href="8days-rongai-route.php" class="nav-link">8 Days Rongai Route</a>
+                        <a href="#" class="nav-link">Lake Nakuru</a>
                       </li>
-                      <li class="nav-item">
+                      <!-- <li class="nav-item">
                         <a href="7days-marangu-route.php" class="nav-link">7 Days Marangu Route</a>
                       </li>
                       <li class="nav-item">
                         <a href="6days-mt-meru-route.php" class="nav-link">6 Days mt Meru Route</a>
-                      </li>
+                      </li> -->
                     </ul>
-                  </li> -->
+                  </li> 
                   <!-- <li class="nav-item">
                     <a href="daytrips.php" class="nav-link">Day Trips<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">

@@ -98,8 +98,6 @@
             </div>
         </div>
     </section>
-
-    < banner bottom Area
     <section class="banner_bootom_four">
         <div class="container">
             <div class="row">

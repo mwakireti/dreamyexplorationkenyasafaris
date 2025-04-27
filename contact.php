@@ -5,18 +5,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title -->
-    <title>Nortaz Safari LTD - Contact</title>
+    <title>Dreamy Exploration Kenya Safaris  - Explore wild with us.</title>
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- animate css -->
     <link rel="stylesheet" href="assets/css/animate.min.css" />
     <!-- Fontawesome css -->
     <link rel="stylesheet" href="assets/css/fontawesome.all.min.css" />
-    <link rel="stylesheet" href="../../../../../cdn.jsdelivr.net/npm/bootstrap-icons%401.8.2/font/bootstrap-icons.css">
-    <!-- owl.carousel css -->
+    <link rel="stylesheet" href="../../../../../cdn.jsdelivr.net/npm/bootstrap-icons%401.8.2/font/bootstrap-icons.css"> <!-- owl.carousel css -->
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
-    <!-- Rangeslider css -->
-    <link rel="stylesheet" href="assets/css/nouislider.css" />
     <!-- owl.theme.default css -->
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
     <!-- navber css -->
@@ -28,11 +25,7 @@
     <!-- Responsive css -->
     <link rel="stylesheet" href="assets/css/responsive.css" />
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/img/favicon.png">
-
-    <!--sweetalart--->
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-
+    <link rel="icon" type="image/png" href="assets/img/#">
 
 </head>
 
@@ -120,8 +113,7 @@
                             <h2>Do you have any query? Contact with us to get any
                                 any support.</h2>
                             <h3>Leave us a message</h3>
-                            <p>Lorem ipsum dolor sit amet, cibo mundi ea duo, vim exerci phaedrum.
-                                There are many variations of passages of Lorem Ipsum available but the majority.</p>
+                            <p>We look forward to host and explore Kenya together with you.</p>
                         </div>
                         <div class="contact_form_two">
                             <form id="messageForm">
@@ -169,11 +161,11 @@
                             <div class="contact_details_wrapper">
                                 <div class="contact_detais_item">
                                     <h4>Help line</h4>
-                                    <h3><a href="tel:+01-234-567-890">+255 234 567 890</a></h3>
+                                    <h3><a href="tel:+01-234-567-890">+245 234 567 890</a></h3>
                                 </div>
                                 <div class="contact_detais_item">
                                     <h4>Support mail</h4>
-                                    <h3><a href="mailto:support@domain.com">inquiry@nortazsafari.com</a></h3>
+                                    <h3><a href="mailto:support@domain.com">booking@dreamyexplorationkenyasafari.com</a></h3>
                                 </div>
                                 <div class="contact_detais_item">
                                     <h4>Contact hour</h4>

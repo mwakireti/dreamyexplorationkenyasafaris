@@ -200,7 +200,7 @@
 
                                 </div>
                                 <div class="theme_two_box_content">
-                                    <h4><a href="6Days-wildlife-safari.php">Amboseli National Park</a></h4>
+                                    <h4><a href="amboselinationalpark.php">Amboseli National Park</a></h4>
                                     <p><span class="review_rating">4.8/5 Excellent</span> <span
                                             class="review_count">(1214
                                             reviewes)</span></p>

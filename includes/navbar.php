@@ -188,11 +188,11 @@
                     <!-- </ul>
                   </li> -->
                   <li class="nav-item">
-                    <a href="#"
+                    <a href="about.php"
                       class="nav-link">About</a>
                   </li>
                   <li class="nav-item">
-                    <a href="#"
+                    <a href="contact.php"
                       class="nav-link">Contact</a>
                   </li>
                 </ul>

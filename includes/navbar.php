@@ -44,7 +44,7 @@
                     <a href="safari" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="#" class="nav-link">Maasai Mara National Reserve</a>
+                        <a href="maasaimaranationalpark.php" class="nav-link">Maasai Mara National Reserve</a>
                       </li>
                       <li class="nav-item">
                         <a href="#" class="nav-link">Amboseli National Park</a>

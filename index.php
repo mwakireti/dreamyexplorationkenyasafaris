@@ -181,7 +181,7 @@
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                 </div>
                                 <div class="theme_two_box_content">
-                                    <h4><a href="7day-perfect-combo-safari.php">Maasai Mara National Park</a></h4>
+                                    <h4><a href="maasaimaranationalpark.php">Maasai Mara National Park</a></h4>
                                     <p><span class="review_rating">4.8/5 Excellent</span> <span
                                             class="review_count">(1214
                                             reviewes)</span></p>

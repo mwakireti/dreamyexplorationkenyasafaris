@@ -5,18 +5,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title -->
-    <title>Nortaz Safari LTD - About</title>
+    <title>Dreamy Exploration Kenya Safaris  - Explore wild with us.</title>
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- animate css -->
     <link rel="stylesheet" href="assets/css/animate.min.css" />
     <!-- Fontawesome css -->
     <link rel="stylesheet" href="assets/css/fontawesome.all.min.css" />
-    <link rel="stylesheet" href="../../../../../cdn.jsdelivr.net/npm/bootstrap-icons%401.8.2/font/bootstrap-icons.css">
-    <!-- owl.carousel css -->
+    <link rel="stylesheet" href="../../../../../cdn.jsdelivr.net/npm/bootstrap-icons%401.8.2/font/bootstrap-icons.css"> <!-- owl.carousel css -->
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
-    <!-- Rangeslider css -->
-    <link rel="stylesheet" href="assets/css/nouislider.css" />
     <!-- owl.theme.default css -->
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
     <!-- navber css -->
@@ -28,7 +25,7 @@
     <!-- Responsive css -->
     <link rel="stylesheet" href="assets/css/responsive.css" />
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="assets/img/#">
 </head>
 
 <body>
@@ -108,11 +105,11 @@
                     <div class="about_us_left">
                         <h5>About us</h5>
                         <h2> Locally Owned, Globally Inspired</h2>
-                        <p>Welcome to NORTAZ SAFARI, where authenticity meets adventure in the heart of Tanzania!
+                        <p>Welcome to DREAMY EXPLORATION KENYA SAFARIS, where authenticity meets adventure in the heart of Tanzania!
                         Our mission is to provide you with unique holiday experiences that showcase the rich culture and breathtaking landscapes of this stunning country.
                         </p>
-                        <p>At NORTAZ SAFARI , we are proud to be a locally-owned tourism company. 
-                        Our team consists of knowledgeable locals who have a deep passion for sharing the hidden gems of Tanzania with visitors.
+                        <p>At DREAMY EXPLORATION KENYA SAFARI , we are proud to be a locally-owned tourism company. 
+                        Our team consists of knowledgeable locals who have a deep passion for sharing the hidden gems of Kenya with visitors.
                         With international exposure and extensive experience in the travel industry, we understand what travelers seek: authentic experiences that leave lasting memories. </p>
                         <a href="tour-search.html" class="btn btn_theme btn_md">Find tours</a>
                     </div>
@@ -161,7 +158,7 @@
                         <img src="assets/img/icon/world.png" alt="img">
                         <h5><a href="#!">Sustainable Tourism</a></h5>
                         <p>We believe in responsible travel that benefits both our guests and the communities we work with.
-                            Our activities are designed to promote sustainable tourism, ensuring that your adventure contributes to the preservation of Tanzania’s
+                            Our activities are designed to promote sustainable tourism, ensuring that your adventure contributes to the preservation of Kenya’s
                             beautiful environment and supports local economies. Join us in exploring this remarkable country while making a positive impact.
                         </p>
                     </div>
@@ -171,22 +168,22 @@
                         <img src="assets/img/icon/walte.png" alt="img">
                         <h5><a href="#!">Trusted</a></h5>
                         <p>We know that travel can be an investment, and we are committed to providing exceptional value for your money. 
-                        Our carefully curated activities and packages ensure that you experience the best of Tanzania without compromising on quality or service.</p>
+                        Our carefully curated activities and packages ensure that you experience the best of Kenya without compromising on quality or service.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="about_service_boxed">
                         <img src="assets/img/icon/star.png" alt="img">
                         <h5><a href="#!">Unique Activities</a></h5>
-                        <p>From thrilling safaris across the Serengeti to relaxing beach getaways on Zanzibar, we offer a range of unique activities tailored to suit every traveler’s desire. 
-                            Our itineraries are designed to provide unforgettable experiences that showcase the diverse beauty and culture of Tanzania.</p>
+                        <p>From thrilling safaris across the Tsavo National parks to relaxing beach getaways on Diani, we offer a range of unique activities tailored to suit every traveler’s desire. 
+                            Our itineraries are designed to provide unforgettable experiences that showcase the diverse beauty and culture of Kenya.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="about_service_boxed">
                         <img src="assets/img/icon/persentis.png" alt="img">
                         <h5><a href="#!">Awesome deals</a></h5>
-                        <p>We invite you to explore Tanzania with us. Our dedicated team is here to guide you through every step of your journey,
+                        <p>We invite you to explore Kenya with us. Our dedicated team is here to guide you through every step of your journey,
                             ensuring you have an incredible holiday filled with authentic activities and unforgettable moments. Let’s make your dream holiday a reality!
                         .</p>
                     </div>

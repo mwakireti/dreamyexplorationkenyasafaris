@@ -41,7 +41,7 @@
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a href="safari" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
+                    <a href="safari-tours.php" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
                         <a href="maasaimaranationalpark.php" class="nav-link">Maasai Mara National Reserve</a>

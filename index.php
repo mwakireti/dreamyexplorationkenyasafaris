@@ -125,7 +125,152 @@
             </div>
         </div>
     </section> 
+    <div class="search-overlay">
+        <div class="d-table">
+            <div class="d-table-cell">
+                <div class="search-overlay-layer"></div>
+                <div class="search-overlay-layer"></div>
+                <div class="search-overlay-layer"></div>
+                <div class="search-overlay-close">
+                    <span class="search-overlay-close-line"></span>
+                    <span class="search-overlay-close-line"></span>
+                </div>
+                <div class="search-overlay-form">
+                    <form>
+                        <input type="text" class="input-search" placeholder="Search here...">
+                        <button type="button"><i class="fas fa-search"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Common Banner Area -->
+    <section id="common_banner">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="common_bannner_text">
+                        <h2>Safari search result</h2>
+                        <ul>
+                            <li><a href="home">Home</a></li>
+                            <li><span><i class="fas fa-circle"></i></span> Tours</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Tour Search Areas -->
+    <section id="explore_area" class="section_padding">
+        <div class="container">
+            <!-- Section Heading -->
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="section_heading_center">
+                        <h2>Available Safari tours</h2>
+                    </div>
+                </div>
+            </div>
 
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="theme_common_box_two img_hover">
+                                <div class="theme_two_box_img">
+                                    <a href="tour-details"><img src="assets/img/holiday-img/im.png" alt="img"></a>
+                                    <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
+                                </div>
+                                <div class="theme_two_box_content">
+                                    <h4><a href="7day-perfect-combo-safari.php">Maasai Mara National Park</a></h4>
+                                    <p><span class="review_rating">4.8/5 Excellent</span> <span
+                                            class="review_count">(1214
+                                            reviewes)</span></p>
+                                    <h3> <span></span></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="theme_common_box_two img_hover">
+                                <div class="theme_two_box_img">
+                                    <a href="tour-details"><img src="assets/img/holiday-img//elephan.png" alt="img"></a>
+                                    <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
+                                    <div class="discount_tab">
+                                        <span></span>
+                                    </div>
+
+                                </div>
+                                <div class="theme_two_box_content">
+                                    <h4><a href="6Days-wildlife-safari.php">Amboseli National Park</a></h4>
+                                    <p><span class="review_rating">4.8/5 Excellent</span> <span
+                                            class="review_count">(1214
+                                            reviewes)</span></p>
+                                    <h3><span></span></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="theme_common_box_two img_hover">
+                                <div class="theme_two_box_img">
+                                    <a href="tour-details"><img src="assets/img/holiday-img//muz.png" alt="img"></a>
+                                    <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
+                                </div>
+                                <div class="theme_two_box_content">
+                                    <h4><a href="tour-details">Tsavo East National Park</a></h4>
+                                    <p><span class="review_rating">4.8/5 Excellent</span> <span
+                                            class="review_count">(1214
+                                            reviewes)</span></p>
+                                    <h3><span></span></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="theme_common_box_two img_hover">
+                                <div class="theme_two_box_img">
+                                    <a href="tour-details"><img src="assets/img/holiday-img//ostr.png" alt="img"></a>
+                                    <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
+                                    <div class="discount_tab">
+                                        <span></span>
+                                    </div>
+                                </div>
+                                <div class="theme_two_box_content">
+                                    <h4><a href="tour-details">Samburu National Park</a></h4>
+                                    <p><span class="review_rating">4.8/5 Excellent</span> <span
+                                            class="review_count">(1214
+                                            reviewes)</span></p>
+                                    <h3><span></span></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="theme_common_box_two img_hover">
+                                <div class="theme_two_box_img">
+                                    <a href="tour-details"><img src="assets/img/holiday-img//kade.png" alt="img"></a>
+                                    <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
+                                </div>
+                                <div class="theme_two_box_content">
+                                    <h4><a href="tour-details">Meru National Park</a></h4>
+                                    <p><span class="review_rating">4.8/5 Excellent</span> <span
+                                            class="review_count">(1214
+                                            reviewes)</span></p>
+                                    <h3><span></span></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="theme_common_box_two img_hover">
+                                <div class="theme_two_box_img">
+                                    <a href="tour-details"><img src="assets/img/holiday-img//zebra.png" alt="img"></a>
+                                    <p><i class="fas fa-map-marker-alt"></i>Kenya<p>
+                                </div>
+                                <div class="theme_two_box_content">
+                                    <h4><a href="tour-details">Design Your Safari trip</a></h4>
+                                    <p><span class="review_rating"></span> <span
+                                            class="review_count"></span></p>
+                                    <h3><span></span></h3>
+                                </div>
+                            </div>
+                        </div>
+    </section>
     <!-- Best Offers Area -->
     <!-- <section id="best_offers_four" class="section_padding_top">
         <div class="container"> -->

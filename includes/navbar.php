@@ -64,16 +64,16 @@
                     </ul>
                   </li> 
                    <li class="nav-item">
-                    <a href="climbtrekk" class="nav-link">Site Tour<i class="fas fa-angle-down"></i></a>
+                    <a href="#" class="nav-link">Site Tour<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="#" class="nav-link">Mount Kenya</a>
+                        <a href="mountkenya.php" class="nav-link">Mount Kenya</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">Ol Pejeta Conservancy</a>
+                        <a href="Olepejetaconservancy.php" class="nav-link">Ol Pejeta Conservancy</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">Lake Nakuru</a>
+                        <a href="lakenakuru.php" class="nav-link">Lake Nakuru</a>
                       </li>
                       <!-- <li class="nav-item">
                         <a href="7days-marangu-route.php" class="nav-link">7 Days Marangu Route</a>

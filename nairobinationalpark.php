@@ -83,11 +83,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="common_bannner_text">
-                        <h2>MERU NATIONAL PARK. </h2>
+                        <h2>NAIROBI NATIONAL PARK. </h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
                             <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Safari</a></li>
-                            <li><span><i class="fas fa-circle"></i></span> Meru National Park.</li>
+                            <li><span><i class="fas fa-circle"></i></span> Nairobi National Park.</li>
                         </ul>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">
                                 <h2>Explore the wild safari.</h2>
-                                <h5><i class="fas fa-map-marker-alt"></i> Meru National Park.
+                                <h5><i class="fas fa-map-marker-alt"></i> Nairobi National Park.
                                 </h5>
                             </div>
                             <div class="tour_details_top_heading_right">
@@ -202,17 +202,16 @@
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Trip Info</h3>
                             <div class="tour_details_boxed_inner">
-                                <p> The Masai Mara National Reserve is home to an incredible array of wildlife, including lions, cheetahs, elephants, leopards, black rhinos, hippos, and zebras.
-                                    Birdwatchers can spot hundreds of bird species, while nature lovers can witness one of the most spectacular events on Earth—the Great Wildebeest Migration.
-                                    Each year, millions of wildebeest and zebras cross the Mara River, creating a once-in-a-lifetime wildlife spectacle that draws travelers from around the world.
-                                    Whether you’re seeking a luxury safari lodge, an authentic tented camp, or a budget-friendly safari experience, the Masai Mara safari offers tailored options for every traveler. With expert local guides, thrilling game drives, and unmatched photo opportunities, this legendary safari destination guarantees an unforgettable African wildlife experience.</p>
+                                <p> Just minutes from Nairobi’s city center, Nairobi National Park is a one-of-a-kind urban safari destination, offering incredible wildlife encounters against the backdrop of Kenya’s bustling capital. Covering 45 square miles, it is one of the smallest national parks in Africa yet remains home to an impressive array of wildlife.
+                                    The park’s diverse landscape includes open plains, rocky outcrops, and acacia-lined rivers, providing a natural haven for lions, leopards, cheetahs, buffaloes, giraffes, zebras, and over 40 black rhinos—making it one of the best places in Kenya to spot these endangered creatures. While elephants are absent, visitors can still experience unforgettable encounters with orphaned baby elephants at the nearby Sheldrick Wildlife Trust, located close to the park’s main entrance.
+                                    With its proximity to Nairobi, this park is perfect for a half-day or full-day safari, offering a rare opportunity to see Kenya’s incredible wildlife without leaving the city. Whether you’re on a short layover or looking for an easy getaway, Nairobi National Park is a must-visit for nature lovers, photographers, and adventure seekers.</p>
                                 <!-- <p>
                                 ACTIVITIES:Our main activities are Game drive and village tour.
                                 One may also spot, Zebras, giraffe, elephant migration, dwarf mongoose, dik dik, lion, impala, snake, baboons, jackal, buffalo, hippo, blue monkey, waterbuck, flamingo, warthog, acacia woodlands, Serengeti savannah, wildebeest, impala, rhino, gazelles, cheetahs, spotted hyena, ostriches and unique bird species.
                                 WE OFFER:Our services in three different levels of accomodations, Basic, Luxury and Premium. .</p> -->
 
                         <div class="tour_details_boxed">
-                            <h3 class="heading_theme">Meru National Park.</h3>
+                            <h3 class="heading_theme">Nairobi National Park.</h3>
                             <div class="map_area">
                                 <iframe
                                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127449.70342141512!2d36.59481074513824!3d-3.398140243905732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18371c88f2387383%3A0xbc1907f7ec497152!2sArusha%2C%20Tanzania!5e0!3m2!1sen!2ske!4v1733854338051!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

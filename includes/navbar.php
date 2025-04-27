@@ -47,16 +47,19 @@
                         <a href="maasaimaranationalpark.php" class="nav-link">Maasai Mara National Reserve</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">Amboseli National Park</a>
+                        <a href="amboselinationalpark.php" class="nav-link">Amboseli National Park</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">Tsavo East National Park</a>
+                        <a href="tsavoeastnationalpark.php" class="nav-link">Tsavo East National Park</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">Samburu National Park</a>
+                        <a href="samburunationalpark.php" class="nav-link">Samburu National Park</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#"class="nav-link">Meru National Park</a>
+                        <a href="merunationalpark.php"class="nav-link">Meru National Park</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="nairobinationalpark.php"class="nav-link">Nairobi National Park</a>
                       </li>
                     </ul>
                   </li> 

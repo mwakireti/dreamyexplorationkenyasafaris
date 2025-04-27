@@ -215,7 +215,7 @@
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                 </div>
                                 <div class="theme_two_box_content">
-                                    <h4><a href="tour-details">Tsavo East National Park</a></h4>
+                                    <h4><a href="tsavoeastnationalpark.php">Tsavo East National Park</a></h4>
                                     <p><span class="review_rating">4.8/5 Excellent</span> <span
                                             class="review_count">(1214
                                             reviewes)</span></p>
@@ -226,7 +226,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="theme_common_box_two img_hover">
                                 <div class="theme_two_box_img">
-                                    <a href="tour-details"><img src="assets/img/holiday-img//ostr.png" alt="img"></a>
+                                    <a href="samburunationalpark.php"><img src="assets/img/holiday-img//ostr.png" alt="img"></a>
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                     <div class="discount_tab">
                                         <span></span>
@@ -248,7 +248,22 @@
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                 </div>
                                 <div class="theme_two_box_content">
-                                    <h4><a href="tour-details">Meru National Park</a></h4>
+                                    <h4><a href="merunationalpark.php">Meru National Park</a></h4>
+                                    <p><span class="review_rating">4.8/5 Excellent</span> <span
+                                            class="review_count">(1214
+                                            reviewes)</span></p>
+                                    <h3><span></span></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="theme_common_box_two img_hover">
+                                <div class="theme_two_box_img">
+                                    <a href="tour-details"><img src="assets/img/holiday-img//kade.png" alt="img"></a>
+                                    <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
+                                </div>
+                                <div class="theme_two_box_content">
+                                    <h4><a href="nairobinationalpark.php">Nairobi National Park</a></h4>
                                     <p><span class="review_rating">4.8/5 Excellent</span> <span
                                             class="review_count">(1214
                                             reviewes)</span></p>

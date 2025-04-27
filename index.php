@@ -177,7 +177,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="theme_common_box_two img_hover">
                                 <div class="theme_two_box_img">
-                                    <a href="tour-details"><img src="assets/img/holiday-img/im.png" alt="img"></a>
+                                    <a href="maasaimaranationalpark.php"><img src="assets/img/holiday-img/im.png" alt="img"></a>
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                 </div>
                                 <div class="theme_two_box_content">
@@ -192,7 +192,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="theme_common_box_two img_hover">
                                 <div class="theme_two_box_img">
-                                    <a href="tour-details"><img src="assets/img/holiday-img//elephan.png" alt="img"></a>
+                                    <a href="amboselinationalpark.php"><img src="assets/img/holiday-img//elephan.png" alt="img"></a>
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                     <div class="discount_tab">
                                         <span></span>
@@ -211,7 +211,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="theme_common_box_two img_hover">
                                 <div class="theme_two_box_img">
-                                    <a href="tour-details"><img src="assets/img/holiday-img//muz.png" alt="img"></a>
+                                    <a href="tsavoeastnationalpark.php"><img src="assets/img/holiday-img//muz.png" alt="img"></a>
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                 </div>
                                 <div class="theme_two_box_content">
@@ -233,7 +233,7 @@
                                     </div>
                                 </div>
                                 <div class="theme_two_box_content">
-                                    <h4><a href="tour-details">Samburu National Park</a></h4>
+                                    <h4><a href="samburunationalpark.php">Samburu National Park</a></h4>
                                     <p><span class="review_rating">4.8/5 Excellent</span> <span
                                             class="review_count">(1214
                                             reviewes)</span></p>
@@ -244,7 +244,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="theme_common_box_two img_hover">
                                 <div class="theme_two_box_img">
-                                    <a href="tour-details"><img src="assets/img/holiday-img//kade.png" alt="img"></a>
+                                    <a href="merunationalpark.php"><img src="assets/img/holiday-img//kade.png" alt="img"></a>
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                 </div>
                                 <div class="theme_two_box_content">
@@ -259,7 +259,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="theme_common_box_two img_hover">
                                 <div class="theme_two_box_img">
-                                    <a href="tour-details"><img src="assets/img/holiday-img//kade.png" alt="img"></a>
+                                    <a href="nairobinationalpark.php"><img src="assets/img/holiday-img//kade.png" alt="img"></a>
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya</p>
                                 </div>
                                 <div class="theme_two_box_content">
@@ -274,11 +274,11 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="theme_common_box_two img_hover">
                                 <div class="theme_two_box_img">
-                                    <a href="tour-details"><img src="assets/img/holiday-img//zebra.png" alt="img"></a>
+                                    <a href="#"><img src="assets/img/holiday-img//zebra.png" alt="img"></a>
                                     <p><i class="fas fa-map-marker-alt"></i>Kenya<p>
                                 </div>
                                 <div class="theme_two_box_content">
-                                    <h4><a href="tour-details">Design Your Safari trip</a></h4>
+                                    <h4><a href="#">Design Your Safari trip</a></h4>
                                     <p><span class="review_rating"></span> <span
                                             class="review_count"></span></p>
                                     <h3><span></span></h3>

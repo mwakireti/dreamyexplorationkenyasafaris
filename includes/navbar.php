@@ -35,7 +35,7 @@
         <div class="main-navbar">
           <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
-              <a class="navbar-brand" href="home">
+              <a class="navbar-brand" href="index.php">
                 <img style="width:70px;" src="assets/img/dreamylogobg0.png" alt="logo">
               </a>
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">

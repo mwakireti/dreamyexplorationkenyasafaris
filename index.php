@@ -98,7 +98,7 @@
             </div>
         </div>
     </section>
-    <section class="banner_bootom_four">
+    <!-- <section class="banner_bootom_four">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
@@ -144,8 +144,8 @@
             </div>
         </div>
     </div>
-    <!-- Common Banner Area -->
-    <section id="common_banner">
+    < Common Banner Area -->
+    <!-- <section id="common_banner">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -159,7 +159,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --> 
     <!-- Tour Search Areas -->
     <section id="explore_area" class="section_padding">
         <div class="container">

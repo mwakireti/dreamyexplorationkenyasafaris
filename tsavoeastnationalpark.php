@@ -154,7 +154,7 @@
                         <div class="tour_details_img_wrapper">
                             <div class="slider slider-for">
                                 <div>
-                                    <img src="assets/img/common/NTCAR.png" alt="img">
+                                    <img src="assets/img/common/NTCARS.png" alt="img">
                                 </div>
                                 <!-- <div>
                                     <img src="assets/img/common/NTCAR.png" alt="img">

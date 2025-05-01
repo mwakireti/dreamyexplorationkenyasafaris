@@ -136,7 +136,7 @@
                 </div>
                 <div class="col-lg-8">
                     <div class="about_offer_banner">
-                        <img src="assets/img/common/NTCAR.png" alt="img">
+                        <img src="assets/img/common/NTCARS.png" alt="img">
                         <div class="about_offer_text">
                             <h3>Enjoy <span>Well</span> Organized</h3>
                             <h2>Tailor made tours</h2>

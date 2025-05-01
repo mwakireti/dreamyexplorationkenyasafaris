@@ -11,7 +11,7 @@
                   <a href="#!"><i class="fab fa-instagram"></i></a>
                   <a href="#!"><i class="fab fa-linkedin"></i></a>
                 </li>
-                <li><a href="#!"><span>+254 234 567 89</span></a></li>
+                <li><a href="#!"><span>+254 720 943 976</span></a></li>
                 <li><a href="Mailto:mike.mzee@dreamyexplorationkenyasafari.com"><span>bookings@dreamyexplorationkenyasafari.com</span></a></li>
               </ul>
             </div>

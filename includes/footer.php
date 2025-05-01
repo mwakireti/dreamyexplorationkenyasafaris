@@ -9,7 +9,7 @@
         <div class="footer_first_area">
           <div class="footer_inquery_area">
             <h5>Call 24/7 for any help</h5>
-            <h3> <a href="tel:+00-123-456-789">+254 023 456 789</a></h3>
+            <h3> <a href="tel:+00-123-456-789">+254 720 943 976</a></h3>
           </div>
           <div class="footer_inquery_area">
             <h5>Mail to our support team</h5>

@@ -161,7 +161,7 @@
                             <div class="contact_details_wrapper">
                                 <div class="contact_detais_item">
                                     <h4>Help line</h4>
-                                    <h3><a href="tel:+01-234-567-890">+245 234 567 890</a></h3>
+                                    <h3><a href="tel:+01-234-567-890">+254 720 943 976</a></h3>
                                 </div>
                                 <div class="contact_detais_item">
                                     <h4>Support mail</h4>

@@ -56,7 +56,7 @@
                         <a href="samburunationalpark.php" class="nav-link">Samburu National Park</a>
                       </li>
                       <li class="nav-item">
-                        <a href="merunationalpark.php"class="nav-link">Meru National Park</a>
+                        <a href="merunationalpark .php"class="nav-link">Meru National Park</a>
                       </li>
                       <li class="nav-item">
                         <a href="nairobinationalpark.php"class="nav-link">Nairobi National Park</a>
